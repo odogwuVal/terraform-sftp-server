@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"sftp","Source":"./aws-transfer-sftp","Dir":"aws-transfer-sftp"}]}
+{"Modules":[{"Key":"lambda","Source":"./aws-lambda","Dir":"aws-lambda"},{"Key":"sftp","Source":"./aws-transfer-sftp","Dir":"aws-transfer-sftp"},{"Key":"","Source":"","Dir":"."}]}
